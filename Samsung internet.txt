@@ -1,0 +1,94 @@
+! APKMIRROR
+
+
+www.apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider
+www.apkmirror.com##.ains-apkm_dev_page_top.ains-has-label.ains-10.ains
+www.apkmirror.com##.ains-apkm_sidebar_top.ains-has-label.ains-2.ains
+www.apkmirror.com##.ains-apkm_uploads_page_top.ains-has-label.ains-40.ains
+www.apkmirror.com##div.appRow:nth-of-type(8)
+www.apkmirror.com##.ains-apkm_release_page_top.ains-has-label.ains-24.ains
+www.apkmirror.com##.ai-viewport-5.ai-viewport-1.ains-apkm_release_page_descriptiontab.ains-has-label.ains-29.ains
+www.apkmirror.com##.ai-viewport-5.ai-viewport-1.ains-apkm_release_page_whatsnewtab.ains-has-label.ains-28.ains
+www.apkmirror.com##.ains-apkm_release_page_below_description_above_downloads.ains-has-label.ains-26.ains
+www.apkmirror.com##.ains-apkm_release_page_middle.ains-has-label.ains-25.ains
+www.apkmirror.com##.ains-apkm_app_page_bottom.ains-has-label.ains-33.ains
+www.apkmirror.com##.ains-apkm_app_page_top.ains-has-label.ains-32.ains
+www.apkmirror.com##.ai-viewport-5.ai-viewport-1.ains-apkm_app_page_descriptiontab.ains-has-label.ains-35.ains
+www.apkmirror.com##.ai-viewport-5.ai-viewport-1.ains-apkm_app_page_whatsnewtab.ains-has-label.ains-36.ains
+www.apkmirror.com##.ains-apkm_variant_page_top.ains-has-label.ains-30.ains
+www.apkmirror.com##.ains-apkm_billboard_top.ains-has-label.ains-45.ains
+www.apkmirror.com##.ains-apkm_search_page_top.ains-has-label.ains-43.ains
+www.apkmirror.com##.ains-apkm_search_page_bottom.ains-has-label.ains-44.ains
+
+
+
+! HINDUSTAN TIMES 
+
+www.hindustantimes.com##.Liveblog_adCenter__7_m4h
+www.hindustantimes.com##div.whiteBg.adHeight313:nth-of-type(4)
+www.hindustantimes.com##div.whiteBg.adHeight313:nth-of-type(9)
+www.hindustantimes.com##div.whiteBg.adHeight313:nth-of-type(13)
+www.hindustantimes.com##div.container:nth-of-type(9)
+
+
+! GOCMODS
+
+gocmod.com##div:nth-of-type(18)
+gocmod.com##.wrp-min > center
+gocmod.com##.downline-line-list > center
+gocmod.com##.wam-ad-6972.wam-banner-comments_form_bottom.wam-banner
+gocmod.com##.wam-ad-6973.wam-banner-comments_box_bottom.wam-banner
+gocmod.com##.wc_social_plugin_wrapper
+gocmod.com##div.md5:nth-of-type(3)
+gocmod.com##.download-cdn > center
+file.gocmod.com##div:nth-of-type(5)
+file.gocmod.com##div.ad:nth-of-type(2)
+file.gocmod.com##div.ad:nth-of-type(3)
+file.gocmod.com##div.ad:nth-of-type(4)
+
+
+
+! XHAMSTER
+
+xhamster.com##._77df323d
+xhamster43.desi##._77df323d
+xhamster43.desi##.UKyU-tsbunder-player-banner-wrapper
+xhamster43.desi##.mobileBlock-15e4c.prePopunderLabel-15e4c
+xhamster43.desi##.page-15e4c.prePopunderLabel-15e4c
+
+
+! ZBPORN 
+
+zbporn.tv##.under-video-spot
+zbporn.tv##.block-t
+zbporn.tv##.visible.sp-player-mobile.sp-player
+zbporn.tv##.th-adv.th
+zbporn.tv##.box-n
+zbporn.tv##.block-b
+
+! EPORNER 
+
+eporner.com##div[id="pbwuvp"]
+
+
+! 4K PORN
+
+4kporn.xxx##.content > .sponsorsmall
+4kporn.xxx##.noopenlink.info-buttons > .sponsorsmall
+4kporn.xxx##.sponsor.ads.noopenlink
+4kporn.xxx##[src="https://4kporn.xxx/player/html.php?aid=pause_html&video_id=138824&cs_id=&category_ids=107,17,4,13,19,36,51,27,56&referer=&rnd=1743963209151"]
+4kporn.xxx##.container > .ads.noopenlink
+4kporn.xxx##.adswarning.center-div
+4kporn.xxx##.footer-margin > .content
+4kporn.xxx##div.adswarning:nth-of-type(2)
+
+! PORNL
+
+pornl.com##section:nth-of-type(1)
+pornl.com##.nopop.fah-btn
+pornl.com##.mixpoppiqxmomoiiii
+
+! JAPAN WHORES
+
+japan-whores.com##.spot_large--pad.spot_large
+japan-whores.com##center
