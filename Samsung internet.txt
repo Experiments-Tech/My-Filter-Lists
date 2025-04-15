@@ -1,6 +1,5 @@
 ! APKMIRROR
 
-
 www.apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider
 www.apkmirror.com##.ains-apkm_dev_page_top.ains-has-label.ains-10.ains
 www.apkmirror.com##.ains-apkm_sidebar_top.ains-has-label.ains-2.ains
@@ -19,7 +18,6 @@ www.apkmirror.com##.ains-apkm_variant_page_top.ains-has-label.ains-30.ains
 www.apkmirror.com##.ains-apkm_billboard_top.ains-has-label.ains-45.ains
 www.apkmirror.com##.ains-apkm_search_page_top.ains-has-label.ains-43.ains
 www.apkmirror.com##.ains-apkm_search_page_bottom.ains-has-label.ains-44.ains
-
 
 
 ! HINDUSTAN TIMES 
@@ -47,7 +45,6 @@ file.gocmod.com##div.ad:nth-of-type(3)
 file.gocmod.com##div.ad:nth-of-type(4)
 
 
-
 ! XHAMSTER
 
 xhamster.com##._77df323d
@@ -66,6 +63,7 @@ zbporn.tv##.th-adv.th
 zbporn.tv##.box-n
 zbporn.tv##.block-b
 
+
 ! EPORNER 
 
 eporner.com##div[id="pbwuvp"]
@@ -82,11 +80,13 @@ eporner.com##div[id="pbwuvp"]
 4kporn.xxx##.footer-margin > .content
 4kporn.xxx##div.adswarning:nth-of-type(2)
 
+
 ! PORNL
 
 pornl.com##section:nth-of-type(1)
 pornl.com##.nopop.fah-btn
 pornl.com##.mixpoppiqxmomoiiii
+
 
 ! JAPAN WHORES
 
