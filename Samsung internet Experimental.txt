@@ -1,3 +1,3 @@
 ! GOCMODS 
 
-file.gocmod.com#%#//scriptlet('aeld', 'blur')
+file.gocmod.com#%#//scriptlet('prevent-addEventListener', 'blur')
