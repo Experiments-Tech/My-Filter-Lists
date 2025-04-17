@@ -45,6 +45,11 @@ file.gocmod.com##div.ad:nth-of-type(3)
 file.gocmod.com##div.ad:nth-of-type(4)
 
 
+! FOODTECHNOS
+
+foodtechnos.in##div#adblock-modal
+
+
 ! XHAMSTER
 
 xhamster.com##._77df323d
