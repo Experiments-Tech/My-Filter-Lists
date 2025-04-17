@@ -1,3 +1,0 @@
-! GOCMODS 
-
-file.gocmod.com#%#//scriptlet('prevent-addEventListener', 'blur')
