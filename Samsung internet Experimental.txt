@@ -1,0 +1,32 @@
+! GOCMODS 
+
+! Block anti-adblock scripts
+file.gocmod.com##script:has-text(adblock)
+file.gocmod.com##script:has-text(/ad.*block/i)
+file.gocmod.com##script[src*="1code.js"]
+file.gocmod.com##script[src*="2code.js"]
+
+! Hide anti-adblock popups & overlays
+file.gocmod.com##div[id*="adblock"]
+file.gocmod.com##div[class*="adblock"]
+file.gocmod.com##div[id^="popup-ads"]
+file.gocmod.com##div[class*="ad-container"]
+
+! Force enable download buttons
+file.gocmod.com##form[action*="/file"] button:style(opacity: 1 !important; pointer-events: auto !important;)
+file.gocmod.com##form[action*="/file"] button:remove-attr(disabled)
+file.gocmod.com##form[action*="/file"]:style(display: block !important;)
+
+! Remove ad containers
+file.gocmod.com##.ad-970x250
+file.gocmod.com##div.ad:has-text(adsbygoogle)
+file.gocmod.com##ins.adsbygoogle
+
+! Block Google AdSense & related scripts
+||googlesyndication.com^$script,domain=file.gocmod.com
+||google-analytics.com^$script,domain=file.gocmod.com
+||doubleclick.net^$script,domain=file.gocmod.com
+||fundingchoicesmessages.google.com^$script,domain=file.gocmod.com
+
+! Block Cloudflare beacon tracking
+||cloudflareinsights.com^$script,domain=file.gocmod.com
