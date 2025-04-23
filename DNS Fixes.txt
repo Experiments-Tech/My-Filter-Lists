@@ -1,5 +1,9 @@
 ! Hagezi badware
 @@||everydayimprovementletters.carrd.co^
 
+! FTP Cloud Trackers
+@@||xux-web-config.oss-accelerate.aliyuncs.com^
+@@||qwen-webui-prod.oss-ap-southeast-1.aliyuncs.com^
+
 ||ero-labs.life^
 ||s.shopee.vn^
