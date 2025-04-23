@@ -126,3 +126,48 @@ porndr.com##div[style="position: absolute; inset: 0px; overflow: hidden; z-index
 porndr.com##div.opt
 porndr.com##.we_are_sorry
 |porndr.com/*/*.php^
+
+
+! General site rules
+porndr.com##.ad-container
+porndr.com##.ads-wrapper
+porndr.com##.ad-unit
+porndr.com##.advert
+porndr.com##[class*="ad-"]
+porndr.com##[id*="ad-"]
+porndr.com##div[class*="banner"]
+porndr.com##iframe[src*="ads"]
+porndr.com##.ad-popup
+porndr.com##.ad-overlay
+
+! Video player specific
+porndr.com##.preroll-block
+porndr.com##.player-ads
+porndr.com##.vjs-ad-overlay
+
+! Sidebar and footer ads
+porndr.com##.sidebar-ads
+porndr.com##.footer-ads
+porndr.com##.recommended-block:has-text(Sponsored)
+
+! Popups and overlays
+porndr.com##.modal-backdrop
+porndr.com##.popup-container
+porndr.com##.overlay-ads
+
+! Tracking/analytics
+porndr.com##script[src*="track"]
+porndr.com##img[src*="tracking"]
+||porndr.com^$script,third-party
+||porndr.com^$xmlhttprequest,third-party
+
+! Utm tracking parameters
+||porndr.com^$removeparam=utm_source
+||porndr.com^$removeparam=utm_medium
+||porndr.com^$removeparam=utm_campaign
+
+! Specific elements from page source
+porndr.com##div[class^="recommended-videos"]
+porndr.com##div[class^="video-ads"]
+porndr.com##div[id^="bnr_"]
+porndr.com##div[class^="banner-"]
