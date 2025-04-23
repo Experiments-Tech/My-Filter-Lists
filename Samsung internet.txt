@@ -119,3 +119,10 @@ jappornxl.com##.related-spot-wrap-mobile.item.thumb_rel.thumb
 jappornxl.com##.main > div:nth-of-type(3)
 
 
+! PORNDR
+
+porndr.com#%#//scriptlet('abort-on-property-read', 'decodeURI')
+porndr.com##div[style="position: absolute; inset: 0px; overflow: hidden; z-index: 160; background: transparent none repeat scroll 0% 0%; display: block;"]
+porndr.com##div.opt
+porndr.com##.we_are_sorry
+|porndr.com/*/*.php^
