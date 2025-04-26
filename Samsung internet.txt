@@ -29,6 +29,19 @@ www.hindustantimes.com##div.whiteBg.adHeight313:nth-of-type(13)
 www.hindustantimes.com##div.container:nth-of-type(9)
 
 
+! INDIA TODAY
+
+indiatoday.in##.withbg.widgetgap.ads__container.ads__common
+indiatoday.in##div#stickyad
+indiatoday.in##div#1
+indiatoday.in##.new_ad_code.inline-story-add.ads__container
+indiatoday.in##.withbg.widgetgap.ads__container
+indiatoday.in##.ads__container.ad__betweenwidget
+indiatoday.in##div.ads__container.custom__htmlwidget
+podcasts.indiatoday.in##.withbg.widgetgap.ads__container
+podcasts.indiatoday.in##div#stickyad
+
+
 ! GOCMODS
 
 gocmod.com##div:nth-of-type(18)
