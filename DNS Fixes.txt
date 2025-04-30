@@ -10,4 +10,6 @@
 
 ||firebaseremoteconfigrealtime.googleapis.com^$app=com.cricfy.tv
 ||wikihznew.newkso.ru^$app=com.cricfy.tv
-@@||lb.peercon.org^$app=com.cricfy.tv
+
+! For cricfy app
+@@||cfyhdhsyhsvdj44.top^
