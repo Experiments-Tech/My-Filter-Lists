@@ -11,3 +11,4 @@
 ||cfyhdhsyhsvdj44.top^$app=com.cricfy.tv
 ||firebaseremoteconfigrealtime.googleapis.com^$app=com.cricfy.tv
 ||wikihznew.newkso.ru^$app=com.cricfy.tv
+@@||lb.peercon.org^$app=com.cricfy.tv
