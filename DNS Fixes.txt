@@ -7,3 +7,7 @@
 
 ||ero-labs.life^
 ||s.shopee.vn^
+
+||cfyhdhsyhsvdj44.top^$app=com.cricfy.tv
+||firebaseremoteconfigrealtime.googleapis.com^$app=com.cricfy.tv
+||wikihznew.newkso.ru^$app=com.cricfy.tv
