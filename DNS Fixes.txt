@@ -16,7 +16,6 @@
 ||firebaseinstallations.googleapis.com^$app=com.cricfy.tv
 ||firebaseremoteconfig.googleapis.com^$app=com.cricfy.tv
 ||firebaseremoteconfigrealtime.googleapis.com^$app=com.cricfy.tv
-||wikihznew.newkso.ru^$app=com.cricfy.tv
 ||blogger.googleusercontent.com^$app=com.cricfy.tv
 ||drive.google.com^$app=com.cricfy.tv
 ||drive.usercontent.google.com^$app=com.cricfy.tv
