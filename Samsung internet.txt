@@ -113,32 +113,12 @@ japan-whores.com##.spot_large--pad.spot_large
 japan-whores.com##center
 
 
-! W4NKR
+! XXJAP,MILFXL,JAPPORNXL,HARD3R,W4NKR
 
-w4nkr.com##.related-spot-wrap-mobile.item.thumb_rel.thumb
-w4nkr.com##div.related-spot-wrap.item.thumb_rel.thumb
-w4nkr.com##.main > div:nth-of-type(3)
-
-
-! HARD3R
-
-hard3r.com##.main > div:nth-of-type(3)
-hard3r.com##.related-spot-wrap-mobile.item.thumb_rel.thumb
-
-
-! JAPPORNXL
-
-jappornxl.com##.video-player.column > .link-offer
-jappornxl.com##.related-spot-wrap-mobile.item.thumb_rel.thumb
-jappornxl.com##.main > div:nth-of-type(3)
-
-
-! XXJAP
-
-xxjap.com##.link-offer
-xxjap.com##.related-spot-wrap-mobile.item.thumb_rel.thumb
-xxjap.com##div.related-spot-wrap.item.thumb_rel.thumb
-xxjap.com##.main > div:nth-of-type(3)
+xxjap.com,milfxl.com,jappornxl.com##.link-offer
+xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com##.related-spot-wrap-mobile.item.thumb_rel.thumb
+xxjap.com,w4nkr.com##div.related-spot-wrap.item.thumb_rel.thumb
+xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com##.main > div:nth-of-type(3)
 
 
 ! PORNDR
