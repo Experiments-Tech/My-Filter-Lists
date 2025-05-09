@@ -20,6 +20,11 @@ www.apkmirror.com##.ains-apkm_search_page_top.ains-has-label.ains-43.ains
 www.apkmirror.com##.ains-apkm_search_page_bottom.ains-has-label.ains-44.ains
 
 
+! Google play store 
+
+@@||rr$contains=---sn-,domain=gvt1.com
+
+
 ! HINDUSTAN TIMES 
 
 www.hindustantimes.com##.Liveblog_adCenter__7_m4h
