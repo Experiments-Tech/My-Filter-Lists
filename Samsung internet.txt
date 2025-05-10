@@ -42,6 +42,10 @@ podcasts.indiatoday.in##.withbg.widgetgap.ads__container
 podcasts.indiatoday.in##div#stickyad
 
 
+! WALLSTREETMOJO
+
+www.wallstreetmojo.com##div[id^="div-ad-mob-34897160-1721039605-"]
+
 ! GOCMODS
 
 gocmod.com##div:nth-of-type(18)
