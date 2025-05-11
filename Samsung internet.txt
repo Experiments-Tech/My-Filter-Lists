@@ -18,6 +18,9 @@ www.apkmirror.com##.ains-apkm_variant_page_top.ains-has-label.ains-30.ains
 www.apkmirror.com##.ains-apkm_billboard_top.ains-has-label.ains-45.ains
 www.apkmirror.com##.ains-apkm_search_page_top.ains-has-label.ains-43.ains
 www.apkmirror.com##.ains-apkm_search_page_bottom.ains-has-label.ains-44.ains
+www.apkmirror.com##.ains-apkm_apkupload_page_top.ains-has-label.ains-39.ains
+www.apkmirror.com##.ains-apkm_developers_page_top.ains-has-label.ains-11.ains
+www.apkmirror.com##.ains-apkm_general_page_top.ains-has-label.ains-41.ains
 
 
 ! HINDUSTAN TIMES 
