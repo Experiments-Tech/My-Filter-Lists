@@ -1,21 +1,18 @@
-! Hagezi badware
+!---------Hagezi badware-----------!
 @@||everydayimprovementletters.carrd.co^
 
-! FTP Cloud Trackers
-@@||xux-web-config.oss-accelerate.aliyuncs.com^
-@@||qwen-webui-prod.oss-ap-southeast-1.aliyuncs.com^
+!----------Hagezi Abused-----------!
 
+!---------Hagezi Fake DNS----------!
+
+!----------General Fixes-----------!
 ||ero-labs.life^
 ||s.shopee.vn^
-
-||firebaseremoteconfigrealtime.googleapis.com^$app=com.cricfy.tv
-||wikihznew.newkso.ru^$app=com.cricfy.tv
-
-! For cricfy app
-@@||cfyhdhsyhsvdj44.top^
-||firebaseinstallations.googleapis.com^$app=com.cricfy.tv
-||firebaseremoteconfig.googleapis.com^$app=com.cricfy.tv
-||firebaseremoteconfigrealtime.googleapis.com^$app=com.cricfy.tv
-||blogger.googleusercontent.com^$app=com.cricfy.tv
-||drive.google.com^$app=com.cricfy.tv
-||drive.usercontent.google.com^$app=com.cricfy.tv
+@@||lsw1.uploady.download^
+@@||cfyhklsndgeknd45.top^
+@@||xhamster43.desi^
+@@||authenticate.ongraphy.com^
+@@||progvar.fun^
+@@||usaco.guide^
+@@||100xsales.store^
+@@||spotipro.top^
