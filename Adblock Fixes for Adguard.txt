@@ -1,1 +1,18 @@
+!--------FTP Cloud Trackers--------!
 
+@@||xux-web-config.oss-accelerate.aliyuncs.com^
+@@||qwen-webui-prod.oss-ap-southeast-1.aliyuncs.com^
+@@||rr*---sn-*.gvt1.com^
+
+!--------Complex DNS Fixes---------!
+
+! DNS Fixes for cricfy App
+||firebaseinstallations.googleapis.com^$app=com.cricfy.tv
+||firebaseremoteconfig.googleapis.com^$app=com.cricfy.tv
+||firebaseremoteconfigrealtime.googleapis.com^$app=com.cricfy.tv
+||blogger.googleusercontent.com^$app=com.cricfy.tv
+||drive.google.com^$app=com.cricfy.tv
+||drive.usercontent.google.com^$app=com.cricfy.tv
+||cricketvectors.akamaized.net^$app=com.cricfy.tv
+||oc.crickapi.com^$app=com.cricfy.tv
+||upload.wikimedia.org^$app=com.cricfy.tv
