@@ -119,12 +119,12 @@ japan-whores.com##.spot_large--pad.spot_large
 japan-whores.com##center
 
 
-! XXJAP,MILFXL,JAPPORNXL,HARD3R,W4NKR
+! XXJAP,MILFXL,JAPPORNXL,HARD3R,W4NKR,JAPRZ
 
-xxjap.com,milfxl.com,jappornxl.com##.link-offer
+xxjap.com,milfxl.com,jappornxl.com,japrz.com##.link-offer
 xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com##.related-spot-wrap-mobile.item.thumb_rel.thumb
-xxjap.com,w4nkr.com##div.related-spot-wrap.item.thumb_rel.thumb
-xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com##.main > div:nth-of-type(3)
+xxjap.com,w4nkr.com,japrz.com##div.related-spot-wrap.item.thumb_rel.thumb
+xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com,japrz.com##.main > div:nth-of-type(3)
 
 
 ! 404MEDIA
