@@ -23,6 +23,10 @@ www.apkmirror.com##.ains-apkm_developers_page_top.ains-has-label.ains-11.ains
 www.apkmirror.com##.ains-apkm_general_page_top.ains-has-label.ains-41.ains
 
 
+
+www.apkmirror.com##.ains-apkm_apk_page_top.ains-has-label.[class][class*="ains-13"]
+www.apkmirror.com##.ains-apkm_apk_page_downloadtab.ains-has-label.[class][class*="ains-15"]
+
 ! HINDUSTAN TIMES 
 
 www.hindustantimes.com##.Liveblog_adCenter__7_m4h
