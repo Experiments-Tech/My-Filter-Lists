@@ -1,26 +1,64 @@
-! APKMIRROR
+! APKMIRROR FILTER LIST
 
-www.apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider,\
-.ains-apkm_dev_page_top.ains-has-label.ains-10.ains,\
-.ains-apkm_sidebar_top.ains-has-label.ains-2.ains,\
-.ains-apkm_uploads_page_top.ains-has-label.ains-40.ains,\
-div.appRow:nth-of-type(8),\
-.ains-apkm_release_page_top.ains-has-label.ains-24.ains,\
-.ai-viewport-5.ai-viewport-1.ains-apkm_release_page_descriptiontab.ains-has-label.ains-29.ains,\
-.ai-viewport-5.ai-viewport-1.ains-apkm_release_page_whatsnewtab.ains-has-label.ains-28.ains,\
-.ains-apkm_release_page_below_description_above_downloads.ains-has-label.ains-26.ains,\
-.ains-apkm_release_page_middle.ains-has-label.ains-25.ains,\
-.ains-apkm_app_page_bottom.ains-has-label.ains-33.ains,\
-.ains-apkm_app_page_top.ains-has-label.ains-32.ains,\
-.ai-viewport-5.ai-viewport-1.ains-apkm_app_page_descriptiontab.ains-has-label.ains-35.ains,\
-.ai-viewport-5.ai-viewport-1.ains-apkm_app_page_whatsnewtab.ains-has-label.ains-36.ains,\
-.ains-apkm_variant_page_top.ains-has-label.ains-30.ains,\
-.ains-apkm_billboard_top.ains-has-label.ains-45.ains,\
-.ains-apkm_search_page_top.ains-has-label.ains-43.ains,\
-.ains-apkm_search_page_bottom.ains-has-label.ains-44.ains,\
-.ains-apkm_apkupload_page_top.ains-has-label.ains-39.ains,\
-.ains-apkm_developers_page_top.ains-has-label.ains-11.ains,\
-.ains-apkm_general_page_top.ains-has-label.ains-41.ains
+! #####################################################################
+! GENERAL / HOMEPAGE ADS
+! #####################################################################
+www.apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider
+
+! #####################################################################
+! APP PAGE (TOP & BOTTOM SECTIONS)
+! #####################################################################
+www.apkmirror.com##.ains-apkm_app_page_top.ains-has-label.ains-32.ains
+www.apkmirror.com##.ains-apkm_app_page_bottom.ains-has-label.ains-33.ains
+
+!! App Page - Tabs
+www.apkmirror.com##.ai-viewport-5.ai-viewport-1.ains-apkm_app_page_descriptiontab.ains-has-label.ains-35.ains
+www.apkmirror.com##.ai-viewport-5.ai-viewport-1.ains-apkm_app_page_whatsnewtab.ains-has-label.ains-36.ains
+
+! #####################################################################
+! RELEASE PAGE (SPECIFIC APK VERSIONS)
+! #####################################################################
+www.apkmirror.com##.ains-apkm_release_page_top.ains-has-label.ains-24.ains
+www.apkmirror.com##.ains-apkm_release_page_middle.ains-has-label.ains-25.ains
+www.apkmirror.com##.ains-apkm_release_page_below_description_above_downloads.ains-has-label.ains-26.ains
+
+!! Release Page - Tabs
+www.apkmirror.com##.ai-viewport-5.ai-viewport-1.ains-apkm_release_page_descriptiontab.ains-has-label.ains-29.ains
+www.apkmirror.com##.ai-viewport-5.ai-viewport-1.ains-apkm_release_page_whatsnewtab.ains-has-label.ains-28.ains
+
+! #####################################################################
+! VARIANT PAGE (DIFFERENT APK VARIANTS)
+! #####################################################################
+www.apkmirror.com##.ains-apkm_variant_page_top.ains-has-label.ains-30.ains
+
+! #####################################################################
+! DEVELOPER / UPLOADS PAGES
+! #####################################################################
+www.apkmirror.com##.ains-apkm_dev_page_top.ains-has-label.ains-10.ains
+www.apkmirror.com##.ains-apkm_uploads_page_top.ains-has-label.ains-40.ains
+www.apkmirror.com##.ains-apkm_apkupload_page_top.ains-has-label.ains-39.ains
+www.apkmirror.com##.ains-apkm_developers_page_top.ains-has-label.ains-11.ains
+
+! #####################################################################
+! SEARCH PAGE
+! #####################################################################
+www.apkmirror.com##.ains-apkm_search_page_top.ains-has-label.ains-43.ains
+www.apkmirror.com##.ains-apkm_search_page_bottom.ains-has-label.ains-44.ains
+
+! #####################################################################
+! BILLBOARD / TOP BANNER
+! #####################################################################
+www.apkmirror.com##.ains-apkm_billboard_top.ains-has-label.ains-45.ains
+
+! #####################################################################
+! GENERAL PAGE TOP SECTION
+! #####################################################################
+www.apkmirror.com##.ains-apkm_general_page_top.ains-has-label.ains-41.ains
+
+! #####################################################################
+! MISCELLANEOUS / SPECIFIC ROW REMOVAL
+! #####################################################################
+www.apkmirror.com##div.appRow:nth-of-type(8)
 
 
 
