@@ -1,8 +1,8 @@
 ! STARTPAGE
 
-!www.startpage.com##section.a-bg:nth-of-type(1)
+www.startpage.com##section.a-bg:nth-of-type(1)
 www.startpage.com##.css-1h9yhzw.top-attribution
-www.startpage.com##.css-aywym9.a-bg-result
+!www.startpage.com##.css-aywym9.a-bg-result
 
 ! APKMIRROR
 www.apkmirror.com##.ains-apkm_dev_page_top.ains-has-label.ains-10.ains
