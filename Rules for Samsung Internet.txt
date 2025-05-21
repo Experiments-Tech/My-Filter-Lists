@@ -1,3 +1,6 @@
+! STARTPAGE
+startpage.com##div#spon_links
+
 ! APKMIRROR
 www.apkmirror.com##.ains-apkm_dev_page_top.ains-has-label.ains-10.ains
 www.apkmirror.com##.ains-apkm_sidebar_top.ains-has-label.ains-2.ains
