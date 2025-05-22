@@ -100,11 +100,16 @@ pornl.com##.mixpoppiqxmomoiiii
 japan-whores.com##.spot_large--pad.spot_large
 japan-whores.com##center
 
-! XXJAP, MILFXL, JAPPORNXL, HARD3R, W4NKR, JAPRZ, ASIANPORNXL, POVXL
-xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com,japrz.com,asianpornxl.com,povxl.com##.link-offer
-xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com,japrz.com,asianpornxl.com,povxl.com##.related-spot-wrap-mobile.item.thumb_rel.thumb  
-xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com,japrz.com,asianpornxl.com,povxl.com##.main > div:nth-of-type(3)
-xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com,japrz.com,asianpornxl.com,povxl.com##div.related-spot-wrap.item.thumb_rel.thumb
+! XXJAP, MILFXL, JAPPORNXL, HARD3R, W4NKR, JAPRZ, ASIANPORNXL, POVXL, JAPFLAPS
+! --- Found Websites ------------!
+!xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com,japrz.com,asianpornxl.com,povxl.com,japflaps.com##.link-offer
+!xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com,japrz.com,asianpornxl.com,povxl.com,japflaps.com##.related-spot-wrap-mobile.item.thumb_rel.thumb  
+xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com,japrz.com,asianpornxl.com,povxl.com,japflaps.com##.main > div:nth-of-type(3)
+!xxjap.com,milfxl.com,jappornxl.com,hard3r.com,w4nkr.com,japrz.com,asianpornxl.com,povxl.com,japflaps.com##div.related-spot-wrap.item.thumb_rel.thumb
+!---------Aggressive--------------!
+##.link-offer
+##.related-spot-wrap-mobile.item.thumb_rel.thumb
+##div.related-spot-wrap.item.thumb_rel.thumb
 
 ! 404MEDIA
 www.404media.co##.ad-fixed
