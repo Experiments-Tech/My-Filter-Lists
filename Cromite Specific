@@ -1,0 +1,9 @@
+! EPORNER
+eporner.com#$#abort-on-property-read ExoLoader
+eporner.com#$#abort-on-property-read BetterJsPop  
+eporner.com#$#abort-on-property-read popit
+eporner.com#$#abort-on-property-write initEPNB
+eporner.com#$#prevent-addEventListener getexoloader
+eporner.com#$#prevent-setTimeout /click[\s\S]*?window\.location\.replace/
+eporner.com#$#set-cookie ADBp yes
+eporner.com#$#hide-if-contains .mb .adnative-1x1
