@@ -45,6 +45,9 @@ indiatoday.in##div.ads__container.custom__htmlwidget
 ! WALLSTREETMOJO
 www.wallstreetmojo.com##div[id^="div-ad-mob-34897160-1721039605-"]
 
+! GEEKERMAG
+geekermag.com##div[class="ts-modal-overlay"]
+
 ! GOCMODS
 gocmod.com##div:nth-of-type(18)
 gocmod.com##.wrp-min > center
