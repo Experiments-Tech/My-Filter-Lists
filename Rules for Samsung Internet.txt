@@ -27,6 +27,9 @@ www.apkmirror.com##.ains-apkm_developers_page_top.ains-has-label.ains-11.ains
 www.apkmirror.com##.ains-apkm_general_page_top.ains-has-label.ains-41.ains
 www.apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider
 
+! REDDIT
+reddit.com##faceplate-modal[id="blocking-modal"]
+
 ! HINDUSTAN TIMES
 www.hindustantimes.com##.Liveblog_adCenter__7_m4h
 www.hindustantimes.com##div.whiteBg.adHeight313:nth-of-type(4)
