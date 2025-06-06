@@ -3,6 +3,7 @@
 @@||xux-web-config.oss-accelerate.aliyuncs.com^
 @@||qwen-webui-prod.oss-ap-southeast-1.aliyuncs.com^
 @@||rr*---sn-*.gvt1.com^
+@@||careers.qualcomm.com^
 
 !--------Complex DNS Fixes---------!
 
